@@ -31,7 +31,9 @@ Float's options are in CSS Loader:
 - **Shelf blur:** how much the Shelf layout blurs the game's art behind the row
 - **Home tabs:** turn off to hide What's New, Friends and Recommended
 - **Keyboard:** turn off to keep Steam's own on-screen keyboard
+- **Round avatar:** turn off for a square one
+- **Hide avatar frame:** turn off to show your Steam profile's avatar frame
 
 ## Credits
 
-Controller button glyphs and the Steam Deck drawing are Steam's own (© Valve), recoloured. Manrope © The Manrope Project Authors, under the SIL Open Font License.
+Controller button glyphs and the Steam Deck and Steam Controller drawings are Steam's own (© Valve), recoloured. Manrope © The Manrope Project Authors, under the SIL Open Font License.
