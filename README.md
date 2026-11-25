@@ -22,6 +22,10 @@ To install a zip from [Releases](https://github.com/andrefgneves/float/releases)
 
 A release can be newer than the store while an update waits for approval. If CSS Loader offers you an update in that time, skip it: it would install the store's older version.
 
+## Steam beta
+
+Float works on Steam's beta too, from v1.1.0. The beta renamed most of Steam's interface, and CSS Loader's own list of names doesn't cover it yet, so Float includes the beta's names itself. If you're on the beta and the store still has an older version, install the zip from [Releases](https://github.com/andrefgneves/float/releases).
+
 ## Options
 
 Float's options are in CSS Loader:
